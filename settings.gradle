@@ -1,0 +1,3 @@
+include ':BLE Indoor Positioning'
+include ':app'
+rootProject.name = "libraryibeaconscanner"
